@@ -1,0 +1,28 @@
+html {
+  font-size: 10px;
+  font-family: "Epilogue" sans-serif;
+}
+
+a,
+p {
+  font-size: 1.4rem !important;
+}
+
+.title {
+  font-size: 7rem;
+  font-weight: 700;
+}
+
+.hero-container {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.right img {
+  height: 100%;
+  max-width: 500px;
+}
+
+.left {
+  padding-right: 2rem;
+}
